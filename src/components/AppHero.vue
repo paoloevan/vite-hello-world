@@ -7,7 +7,7 @@
         </div>
     </div>
 </template>
-
+    
 <style scoped>
 .jumbo {
     background-image: url(../../public/1618197067vitejs.webp);
